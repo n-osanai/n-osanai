@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=n-osanai&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="left" src="https://github-readme-stats-n-osanai.vercel.app
 /api/top-langs/?username=n-osanai&layout=compact&exclude_repo=github-readme-stats" />
 </a>
