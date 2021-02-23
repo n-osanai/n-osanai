@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=n-osanai&count_private=true&show_icons=true" />]()  
 
-[<img align="left" src="https://github-readme-stats-n-osanai.vercel.app/api/top-langs/?username=n-osanai&layout=compact&exclude_repo=github-readme-stats" />]()  
+[![Most Used Languages](https://github-readme-stats.vercel.app/api?username=n-osanai&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Stats](https://github-readme-stats-n-osanai.vercel.app/api/top-langs/?username=n-osanai&layout=compact&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme-n-osanai.vercel.app/api/spotify-playing" alt="Spotify Now Playing">](https://open.spotify.com/user/Noblevert)
+[![Spotify Now Playing](https://spotify-readme-n-osanai.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Noblevert)
