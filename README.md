@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=n-osanai&count_private=true&show_icons=true" />
-</a>
-<a>
-  <img align="left" src="https://github-readme-stats-n-osanai.vercel.app/api/top-langs/?username=n-osanai&layout=compact&exclude_repo=github-readme-stats" />
-</a>
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=n-osanai&count_private=true&show_icons=true" />]()  
+
+[<img align="left" src="https://github-readme-stats-n-osanai.vercel.app/api/top-langs/?username=n-osanai&layout=compact&exclude_repo=github-readme-stats" />]()  
+
+
+---
+### Spotify Playing 🎧
+[<img src="https://spotify-readme-n-osanai.vercel.app/api/spotify-playing" alt="Spotify Now Playing">](https://open.spotify.com/user/Noblevert)
