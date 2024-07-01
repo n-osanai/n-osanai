@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 
 
 ### Spotify Playing 🎧
-<!-- [![Spotify Now Playing](https://spotify-readme-n-osanai.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Noblevert) -->
 
-[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=noblevert&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify Now Playing](https://spotify-nowplaying-sepia.vercel.app/api/spotify)]()
